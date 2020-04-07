@@ -1,0 +1,5 @@
+server:
+  port: 80
+user:
+  name: lixishuang
+  password: 123456
